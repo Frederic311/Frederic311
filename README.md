@@ -22,7 +22,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 
 ## Projects
 
-* **[Project Name 1]:** Brief description of your first project, including its purpose, technologies used, and key accomplishments.
+* **[Employee Directory web application](https://github.com/Frederic311/Employee)** 
 * **[Project Name 2]:** Brief description of your second project, highlighting its unique features and contributions.
 
 ## Certifications
