@@ -22,7 +22,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 
 ## Projects
 
-* **[Employee Directory web application](https://github.com/Frederic311/Employee)** 
+* **[Employee Directory web application](https://github.com/Frederic311/EmployeeDirectory)** 
 * **[Project Name 2]:** Brief description of your second project, highlighting its unique features and contributions.
 
 ## Certifications
