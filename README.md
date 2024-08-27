@@ -22,8 +22,8 @@ Feel free to reach out if you'd like to learn more about my background and how I
 
 ## Projects
 
-* **[Employee Directory web application](https://github.com/Frederic311/EmployeeDirectory)** 
-* **[Project Name 2]:** Brief description of your second project, highlighting its unique features and contributions.
+* **[Employee Directory web application to showcase employees of given sectors with various possibilities](https://github.com/Frederic311/EmployeeDirectory)** 
+* **[Zoo World a website created with wordpress and elementor](https://github.com/Frederic311/EmployeeDirectory)**
 
 ## Certifications
 
