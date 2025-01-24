@@ -36,7 +36,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 * **[Employee Directory web application to showcase employees of given sectors with various possibilities](https://github.com/Frederic311/EmployeeDirectory)** 
 * **[Zoo World a website created with wordpress and elementor](https://zooworld-sy49.vercel.app)**
 * **[Plagiarism detector site which detects plagiarism in codes and in text documents](https://plagiarismhecker.vercel.app)**
-* **[Fitness App created with ionic](https://plagiarismhecker.vercel.app)**
+* **[Fitness App created with ionic](https://github.com/Frederic311/isi4-dev-mobile-gpe2-personal_fitness_app)**
 
 
 
