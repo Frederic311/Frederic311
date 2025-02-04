@@ -1,5 +1,5 @@
 # 👋🏽Hi, I'm Frederic!
-***Information Systems Engineering Student***
+***Software Engineer***
 
 ## 🔥About Me:
 I am a dedicated and aspiring Information Systems Engineer with a strong foundation in software development and problem-solving.
