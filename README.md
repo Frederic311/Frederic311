@@ -50,7 +50,8 @@ Feel free to reach out if you'd like to learn more about my background and how I
 * **[Employee Directory web application](https://github.com/Frederic311/EmployeeDirectory)** – Showcases employees by sector with search and filtering features  
 * **[Zoo World](https://zooworld-sy49.vercel.app)** – A WordPress site built with Elementor for animal lovers  
 * **[Plagiarism Detector](https://plagiarismhecker.vercel.app)** – Detects plagiarism in code and text documents  
-* **[Fitness App](https://github.com/Frederic311/isi4-dev-mobile-gpe2-personal_fitness_app)** – Mobile app built with Ionic for personal fitness tracking  
+* **[Fitness App](https://github.com/Frederic311/isi4-dev-mobile-gpe2-personal_fitness_app)** – Mobile app built with Ionic for personal fitness tracking
+* **[CRM](https://github.com/Frederic311/https---github.com-Frederic311-CRM)** – Web app to manage student admission
 * **Portfolio & Project Management Platform** – Full-stack app with Blazor and .NET, deployed on Azure
 
 ## 📊 GitHub Stats
