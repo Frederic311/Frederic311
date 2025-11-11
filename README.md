@@ -2,7 +2,7 @@
 ***Software Engineer | DevOps & Full-Stack Developer***
 
 ## 🔥 About Me:
-I am a dedicated and aspiring Information Systems Engineer with a strong foundation in software development, DevOps, and cloud automation. I conceive my solutions by carefully analyzing user needs and selecting the most appropriate tools. My goal is to provide innovative and impactful solutions that improve users' lives and elevate products and services.  
+I am a dedicated and aspiring Information Systems Engineer with a strong foundation in software development and DevOps. I conceive my solutions by carefully analyzing user needs and selecting the most appropriate tools. My goal is to provide innovative and impactful solutions that improve users' lives and elevate products and services.  
 Feel free to reach out if you'd like to learn more about my background and how I can contribute to your projects. I'm eager to connect with you.
 
 **🎯 Currently seeking a 6-month end-of-studies internship starting April 2026 in Full-Stack or DevOps roles.**
@@ -14,8 +14,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 ## 🎓 Education
 
 **ISIMA – Institut Supérieur d’Informatique, de Modélisation et de leurs Applications (France)**  
-*Final year of Engineering Cycle – Software & Information Systems, DevOps specialization*  
-📅 *Expected graduation: September 2026*
+*Final year of Engineering Cycle – Software & Information Systems*  
 
 **Institut Universitaire Saint Jean (Cameroon)**  
 *Engineering Cycle – Software & Information Systems, Linux Administration & Cloud Computing*  
