@@ -51,7 +51,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 * **[Plagiarism Detector](https://plagiarismhecker.vercel.app)** – Detects plagiarism in code and text documents  
 * **[Fitness App](https://github.com/Frederic311/isi4-dev-mobile-gpe2-personal_fitness_app)** – Mobile app built with Ionic for personal fitness tracking
 * **[CRM](https://github.com/Frederic311/https---github.com-Frederic311-CRM)** – Web app to manage student admission
-* **Portfolio & Project Management Platform** – Full-stack app with Blazor and .NET, deployed on Azure
+* **[Portfolio & Project Management Platform](https://github.com/Frederic311/PortfolioProject.git)** – Full-stack app with Blazor and .NET, deployed on Azure
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Frederic311&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
