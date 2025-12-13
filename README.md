@@ -23,7 +23,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 ## 🧠 Strengths
 
 - 🔍 Strong analytical mindset – able to identify and resolve technical issues efficiently  
-- 🔄 Adaptability – quickly mastered tools like Terraform, Ansible, and Prometheus during projects  
+- 🔄 Adaptability  
 - 🤝 Team player – strengthened through collaborative school projects and internships  
 - 💬 Excellent communication – comfortable working across development and support teams  
 
@@ -42,7 +42,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/agile-%23000000.svg?style=for-the-badge&logo=agile&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### Other Tools  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28) ![Neo4j](https://img.shields.io/badge/neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Render](https://img.shields.io/badge/render-%2300A8E8.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28) ![Neo4j](https://img.shields.io/badge/neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Render](https://img.shields.io/badge/render-%2300A8E8.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6)
 
 ## 🚀 Projects
 
@@ -51,7 +51,7 @@ Feel free to reach out if you'd like to learn more about my background and how I
 * **[Plagiarism Detector](https://plagiarismhecker.vercel.app)** – Detects plagiarism in code and text documents  
 * **[Fitness App](https://github.com/Frederic311/isi4-dev-mobile-gpe2-personal_fitness_app)** – Mobile app built with Ionic for personal fitness tracking
 * **[CRM](https://github.com/Frederic311/https---github.com-Frederic311-CRM)** – Web app to manage student admission
-* **[Portfolio & Project Management Platform](https://github.com/Frederic311/PortfolioProject.git)** – Full-stack app with Blazor and .NET, deployed on Azure
+* **[Portfolio & Project Management Platform](https://github.com/Frederic311/PortfolioProject.git)** – Application to manage your portfolio without touching the front-end of your code.
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Frederic311&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
