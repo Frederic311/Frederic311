@@ -5,27 +5,9 @@
 I am a dedicated and aspiring Information Systems Engineer with a strong foundation in software development and DevOps. I conceive my solutions by carefully analyzing user needs and selecting the most appropriate tools. My goal is to provide innovative and impactful solutions that improve users' lives and elevate products and services.  
 Feel free to reach out if you'd like to learn more about my background and how I can contribute to your projects. I'm eager to connect with you.
 
-**🎯 Currently seeking a 6-month end-of-studies internship starting April 2026 in Full-Stack or DevOps roles.**
-
 **👯 I’m looking for:**  
 * Opportunities to work on challenging projects and collaborate with talented teams.  
 * Positions in software development, DevOps, or cloud infrastructure.  
-
-## 🎓 Education
-
-**ISIMA – Institut Supérieur d’Informatique, de Modélisation et de leurs Applications (France)**  
-*Final year of Engineering Cycle – Software & Information Systems*  
-
-**Institut Universitaire Saint Jean (Cameroon)**  
-*Engineering Cycle – Software & Information Systems, Linux Administration & Cloud Computing*  
-📅 *2021 – 2025*
-
-## 🧠 Strengths
-
-- 🔍 Strong analytical mindset – able to identify and resolve technical issues efficiently  
-- 🔄 Adaptability  
-- 🤝 Team player – strengthened through collaborative school projects and internships  
-- 💬 Excellent communication – comfortable working across development and support teams  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericOnana)
@@ -43,15 +25,6 @@ Feel free to reach out if you'd like to learn more about my background and how I
 
 ### Other Tools  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28) ![Neo4j](https://img.shields.io/badge/neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Render](https://img.shields.io/badge/render-%2300A8E8.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6)
-
-## 🚀 Projects
-
-* **[Employee Directory web application](https://github.com/Frederic311/EmployeeDirectory)** – Showcases employees by sector with search and filtering features  
-* **[Zoo World](https://zooworld-sy49.vercel.app)** – A WordPress site built with Elementor for animal lovers  
-* **[Plagiarism Detector](https://plagiarismhecker.vercel.app)** – Detects plagiarism in code and text documents  
-* **[Fitness App](https://github.com/Frederic311/isi4-dev-mobile-gpe2-personal_fitness_app)** – Mobile app built with Ionic for personal fitness tracking
-* **[CRM](https://github.com/Frederic311/https---github.com-Frederic311-CRM)** – Web app to manage student admission
-* **[Portfolio & Project Management Platform](https://github.com/Frederic311/PortfolioProject.git)** – Application to manage your portfolio without touching the front-end of your code.
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Frederic311&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
