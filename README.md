@@ -1,30 +1,70 @@
-# 👋🏽 Hi, I'm Frederic!  
+# 👋🏽 Hi, I'm Frederic!
 ***Software Engineer | DevOps & Full-Stack Developer***
 
-## 🔥 About Me:
-I am a dedicated and aspiring Information Systems Engineer with a strong foundation in software development and DevOps. I conceive my solutions by carefully analyzing user needs and selecting the most appropriate tools. My goal is to provide innovative and impactful solutions that improve users' lives and elevate products and services.  
-Feel free to reach out if you'd like to learn more about my background and how I can contribute to your projects. I'm eager to connect with you.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+DevOps+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+Node.js;Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+%7C+Microservices+%7C+APIs" alt="Typing SVG" />
+</p>
 
-**👯 I’m looking for:**  
-* Opportunities to work on challenging projects and collaborate with talented teams.  
-* Positions in software development, DevOps, or cloud infrastructure.  
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericOnana)
+## 🔥 About Me
+I am a dedicated and aspiring Information Systems Engineer with a strong foundation in software development and DevOps. I conceive solutions by carefully analyzing user needs and selecting the most appropriate technologies to deliver reliable, maintainable, and scalable systems.
 
-## 💻 Tech Stack:
+**👯 I’m looking for:**
+- Opportunities to work on challenging projects and collaborate with talented teams.
+- Positions in software development, DevOps, or cloud infrastructure.
 
-### Programming Skills  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+---
 
-### Frameworks  
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/asp.netcore-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericonana)
 
-### Development  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/agile-%23000000.svg?style=for-the-badge&logo=agile&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
-### Other Tools  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28) ![Neo4j](https://img.shields.io/badge/neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Render](https://img.shields.io/badge/render-%2300A8E8.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6)
+## 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### DevOps / Cloud / IaC
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Methodologies
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23000000.svg?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🧩 Pixel War
+A collaborative “pixel canvas” style web app with DevOps tooling.
+- Repo: https://github.com/projet-devops-isima/pixel-war
+- Stack highlights: JavaScript, HTML/CSS, Python, Docker, Terraform (HCL)
+
+### 🧾 CRM
+CRM-oriented application.
+- Repo: https://github.com/Frederic311/CRM
+- Stack highlights: Java, TypeScript, HTML/SCSS, Docker
+
+---
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Frederic311&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -34,19 +74,8 @@ Feel free to reach out if you'd like to learn more about my background and how I
 ![](https://github-profile-trophy.vercel.app/?username=Frederic311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 <!--
 **Frederic311/Frederic311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
