@@ -21,7 +21,6 @@
     <td width="60%" valign="top">
       <p>Je suis un développeur <strong>Full-Stack</strong> passionné. Motivé par l'envie de progresser rapidement et de relever de nouveaux défis, je me concentre sur la conception d'applications fiables, performantes et scalables.</p>
       <br/>
-      <p>🎯 <strong>Objectif actuel :</strong> Trouver une <strong>Alternance en Développement Full-Stack</strong> partout en France (Présentiel ou Télétravail).</p>
     </td>
   </tr>
 </table>
